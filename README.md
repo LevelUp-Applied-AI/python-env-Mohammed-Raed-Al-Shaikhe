@@ -1,13 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rZxQuJoV)
+
 # AI.SPIRE Pre-Work — Python Toolchain
 
 This repository is your workspace for Pre-Work Days 3–5.
 
-| Day | PR | Topic |
-|-----|-----|-------|
-| 3 | PR-2 | Python venv Bootstrap + Sanity Script |
-| 4 | PR-3 | Notebook vs Script: Same Output Two Ways |
-| 5 | PR-4 | Compute & Debug Evidence Pack |
+| Day | PR   | Topic                                    |
+| --- | ---- | ---------------------------------------- |
+| 3   | PR-2 | Python venv Bootstrap + Sanity Script    |
+| 4   | PR-3 | Notebook vs Script: Same Output Two Ways |
+| 5   | PR-4 | Compute & Debug Evidence Pack            |
 
 ## Setup
 
@@ -27,3 +28,9 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+## When to use each
+
+A Jupyter notebook is useful for exploration and interactive data analysis because you can see outputs immediately under each cell. It is good for testing ideas step by step.
+
+A script is better when you want to automate tasks or run code repeatedly in a production environment. Scripts are cleaner for structured programs and easier to integrate into larger systems.
